@@ -19,10 +19,10 @@
         </array>
     </customFonts>
     <scenes>
-        <!--View Controller-->
+        <!--WelcomeVC-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Autolayouts" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="WelcomeVC" customModule="Autolayouts" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -102,10 +102,10 @@
             </objects>
             <point key="canvasLocation" x="-23" y="122"/>
         </scene>
-        <!--View Controller-->
+        <!--LeagugeVC-->
         <scene sceneID="1EX-bf-vUN">
             <objects>
-                <viewController id="HbK-bf-eXY" sceneMemberID="viewController">
+                <viewController id="HbK-bf-eXY" customClass="LeagugeVC" customModule="Autolayouts" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ts7-dX-qxz">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -210,10 +210,10 @@
             </objects>
             <point key="canvasLocation" x="848.79999999999995" y="103.89805097451276"/>
         </scene>
-        <!--View Controller-->
+        <!--SkillVC-->
         <scene sceneID="z2e-d3-G8f">
             <objects>
-                <viewController id="9AP-IZ-Ktd" sceneMemberID="viewController">
+                <viewController id="9AP-IZ-Ktd" customClass="SkillVC" customModule="Autolayouts" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="not-tA-AhX">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
