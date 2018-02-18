@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0065E0D920391F4C00A33034 /* LeagugeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0065E0D820391F4C00A33034 /* LeagugeVC.swift */; };
 		0065E0DB20391F6800A33034 /* SkillVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0065E0DA20391F6800A33034 /* SkillVC.swift */; };
+		0065E0DD20392C9C00A33034 /* LeaugeSegaue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0065E0DC20392C9C00A33034 /* LeaugeSegaue.swift */; };
 		0080FC4420389EF400500236 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0080FC4320389EF400500236 /* AppDelegate.swift */; };
 		0080FC4620389EF400500236 /* WelcomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0080FC4520389EF400500236 /* WelcomeVC.swift */; };
 		0080FC4920389EF400500236 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0080FC4720389EF400500236 /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		0065E0D820391F4C00A33034 /* LeagugeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagugeVC.swift; sourceTree = "<group>"; };
 		0065E0DA20391F6800A33034 /* SkillVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillVC.swift; sourceTree = "<group>"; };
+		0065E0DC20392C9C00A33034 /* LeaugeSegaue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeaugeSegaue.swift; sourceTree = "<group>"; };
 		0080FC4020389EF400500236 /* Autolayouts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Autolayouts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0080FC4320389EF400500236 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0080FC4520389EF400500236 /* WelcomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeVC.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		0065E0D720391EEB00A33034 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				0065E0DC20392C9C00A33034 /* LeaugeSegaue.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 			files = (
 				00E3CAB72038A6F700DB3B35 /* BarButton.swift in Sources */,
 				0065E0D920391F4C00A33034 /* LeagugeVC.swift in Sources */,
+				0065E0DD20392C9C00A33034 /* LeaugeSegaue.swift in Sources */,
 				0080FC4620389EF400500236 /* WelcomeVC.swift in Sources */,
 				0065E0DB20391F6800A33034 /* SkillVC.swift in Sources */,
 				0080FC4420389EF400500236 /* AppDelegate.swift in Sources */,
